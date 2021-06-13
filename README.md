@@ -8,5 +8,6 @@ Technologies used:
 - Apollo Client
 - Vite
 - React Router DOM
+- styled-components
 - TypeScript
 - Countries GraphQL API (https://github.com/trevorblades/countries)
